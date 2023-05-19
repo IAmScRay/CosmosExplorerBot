@@ -14,3 +14,8 @@ Then, make sure you have these packages installed via ***pip***: *requests*, *py
 
 Finally, launch the bot!
 ***python3 main.py***
+
+#
+
+There's a working bot for humans.ai project already!
+https://t.me/cosm_mon_bot
