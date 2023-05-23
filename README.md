@@ -17,5 +17,9 @@ Finally, launch the bot!
 
 #
 
+When interacting with the bot, it processes 2 commands: */start* & */menu*. The 1st one shows the details about what it can do, and the 2nd command is displaying the active set & clickable buttons to see the information about a specific validator.
+
+#
+
 There's a working bot for humans.ai project already!
 https://t.me/cosm_mon_bot
