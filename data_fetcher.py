@@ -55,7 +55,7 @@ class DataFetcher:
             *Internal function*: **DO NOT USE THIS IN PRODUCTION ENVIRONMENT**!
         """
 
-        url = API_URL + "/cosmos/staking/v1beta1/validators"
+        url = API_URL + "/cosmos/staking/v1beta1/validators?status=BOND_STATUS_BONDED"
 
         request = requests.get(url)
         response = loads(request.content)
